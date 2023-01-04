@@ -1,6 +1,6 @@
 ---
 
-title: 開始使用
+title: 開始使用2
 menu_order: 1
 post_status: publish
 post_excerpt: 如何創建一個屬於自己的世界
@@ -22,3 +22,5 @@ post_excerpt: 如何創建一個屬於自己的世界
 ## 接著請為您的世界取一個名字（名字僅限 英文字母 與 `-` 和 `_` ）
 
 ![輸入世界名稱(輸入cancel取消輸入)](/_images/getting-started/enter-world-name.jpg)
+
+## 您的世界創建完成！您可以開始在裡面蓋建築！
