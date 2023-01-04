@@ -1,6 +1,6 @@
 ---
 
-title: 開始使用2
+title: 開始使用
 menu_order: 1
 post_status: publish
 post_excerpt: 如何創建一個屬於自己的世界
